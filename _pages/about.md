@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Hi there, I am Best, some call me Kam!
 
 I am a PhD student in [Yao group](https://quantumoptics.physics.berkeley.edu/) at University of California, Berkeley.
-As a theoretical physicist, I study how disorders and strong interactions in supercondcutior can give rise to exotic phases of matter, using numerical and theroetical tools.
+As a theoretical physicist, I study how disorders and strong interactions in superconductor can give rise to exotic phases of matter, using numerical and theoretical tools.
 
 I received my undergraduate degree in physics from MIT in 2016 under the guidance of Professor [Leonid Levitov](http://www.mit.edu/~levitov/). 
 
