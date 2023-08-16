@@ -13,4 +13,7 @@ children:
     - title: divider
     - title: teaching
       permalink: /teching/
+    - title: divider
+    - title: News
+      permalink: /news/
 ---
