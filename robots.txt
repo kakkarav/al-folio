@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kakkarav.github.io//sitemap.xml
+Sitemap: https://www.kakkarav.com//sitemap.xml
